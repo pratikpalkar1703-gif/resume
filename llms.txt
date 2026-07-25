@@ -17,11 +17,15 @@ Technical SEO, generative engine optimization (GEO), answer engine optimization 
 
 ## Built
 
-The Growisto AI Suite — 13 internal SEO/GEO tools (5 live web apps, 8 plugins), scoped and built with Claude, using the Claude/OpenAI APIs, Bright Data API and Ahrefs API, version-controlled on GitHub and deployed on Render.com. Tools include an AI Overview Citation Scraper, a 106-parameter SEO Technical Audit, Competitor Analyzer, Seasonality Dashboard, Schema Audit, SEO Page Level Audit, Keyword Classifier, Backlink Shortlister, Internal Linking analyser, SEO Meta Tag Generator, Blog Content Review, Content Creator and SEO Potential Analysis.
+The Growisto AI Suite: 13 internal SEO/GEO tools (5 live web apps, 8 plugins), scoped and built with Claude, using the Claude/OpenAI APIs, Bright Data API and Ahrefs API, version-controlled on GitHub and deployed on Render.com. Tools include an AI Overview Citation Scraper, a 106-parameter SEO Technical Audit, Competitor Analyzer, Seasonality Dashboard, Schema Audit, SEO Page Level Audit, Keyword Classifier, Backlink Shortlister, Internal Linking analyser, SEO Meta Tag Generator, Blog Content Review, Content Creator and SEO Potential Analysis.
+
+## Beyond work
+
+Long-distance road trips and cars. Drove Mumbai to Gangtok and back in 2025, a 5,000 km round trip in a Ford Figo diesel, and published the full travelogue on Team-BHP: https://www.team-bhp.com/forum/travelogues/292184-mumbai-gangtok-mumbai-5-000-km-road-trip-ford-figo-diesel.html. Also Mumbai to Ooty and back, roughly 3,000 km.
 
 ## Education
 
-MSc, Data Science — Ramnarain Ruia College, Mumbai (2016–2018).
+MSc Data Science, Ramnarain Ruia College, Mumbai (2016–2018).
 
 ## Pages
 
