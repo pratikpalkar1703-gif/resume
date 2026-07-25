@@ -1,0 +1,29 @@
+# Pratik Palkar
+
+> SEO & GEO Project Manager based in Mumbai, India, with 7+ years in organic growth. Leads generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across D2C/e-commerce, B2B SaaS and BFSI. Designed and shipped a 13-tool internal AI suite for SEO and GEO workflows.
+
+## Summary
+
+- **Name:** Pratik Palkar
+- **Role:** SEO & GEO Project Manager, Growisto (Jul 2024 – present)
+- **Location:** Mumbai, Maharashtra, India
+- **Experience:** 7+ years across SEO, GEO, ASO and digital growth
+- **Email:** pratikpalkar1703@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/pratik-palkar/
+
+## Specialisms
+
+Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages, ASO.
+
+## Built
+
+The Growisto AI Suite — 13 internal SEO/GEO tools (5 live web apps, 8 plugins), scoped and built with Claude, using the Claude/OpenAI APIs, Bright Data API and Ahrefs API, version-controlled on GitHub and deployed on Render.com. Tools include an AI Overview Citation Scraper, a 106-parameter SEO Technical Audit, Competitor Analyzer, Seasonality Dashboard, Schema Audit, SEO Page Level Audit, Keyword Classifier, Backlink Shortlister, Internal Linking analyser, SEO Meta Tag Generator, Blog Content Review, Content Creator and SEO Potential Analysis.
+
+## Education
+
+MSc, Data Science — Ramnarain Ruia College, Mumbai (2016–2018).
+
+## Pages
+
+- [Homepage](https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/): full profile, experience, AI suite and contact details
+- [CV (PDF)](https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/Pratik_Palkar_Resume.pdf): two-page resume
