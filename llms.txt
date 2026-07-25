@@ -25,5 +25,5 @@ MSc, Data Science — Ramnarain Ruia College, Mumbai (2016–2018).
 
 ## Pages
 
-- [Homepage](https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/): full profile, experience, AI suite and contact details
-- [CV (PDF)](https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/Pratik_Palkar_Resume.pdf): two-page resume
+- [Homepage](https://pratikpalkar1703-gif.github.io/resume/): full profile, experience, AI suite and contact details
+- [CV (PDF)](https://pratikpalkar1703-gif.github.io/resume/Pratik_Palkar_Resume.pdf): two-page resume
