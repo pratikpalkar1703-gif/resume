@@ -1,6 +1,6 @@
 # Pratik Palkar
 
-> SEO & GEO Project Manager based in Mumbai, India, with 7+ years in organic growth. Leads generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across D2C/e-commerce, B2B SaaS and BFSI. Designed and shipped a 13-tool internal AI suite for SEO and GEO workflows.
+> SEO & GEO Project Manager based in Mumbai, India, with 7+ years in organic growth. Leads generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across D2C/e-commerce, B2B SaaS and BFSI, with earlier agency experience across a large automotive client portfolio. Designed and shipped a 13-tool internal AI suite for SEO and GEO workflows.
 
 ## Summary
 
@@ -13,7 +13,7 @@
 
 ## Specialisms
 
-Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages, ASO.
+Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages, ASO, automotive SEO.
 
 ## Built
 
