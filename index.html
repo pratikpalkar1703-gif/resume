@@ -20,7 +20,7 @@
 
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Pratik Palkar | SEO &amp; GEO Project Manager">
-<meta property="og:description" content="7+ years in organic growth. Leading GEO/AEO delivery for 5+ clients, and the builder of a 13-tool internal AI suite for SEO and GEO.">
+<meta property="og:description" content="7+ years in organic growth. Roughly 3x non-brand organic clicks across three accounts, up to 12.6x AI-sourced traffic, and 13 SEO-GEO tools built and in daily use.">
 <meta property="og:url" content="https://pratikpalkar1703-gif.github.io/resume/">
 <meta property="og:image" content="https://pratikpalkar1703-gif.github.io/resume/og-image.png">
 <meta property="og:image:width" content="1200">
@@ -741,6 +741,18 @@ ul.plain li::before{content:"";position:absolute;left:0;top:10px;width:8px;heigh
 .subhead{font-size:clamp(20px,2.6vw,25px);font-weight:800;letter-spacing:-.4px;
      color:var(--navy-800);margin:0 0 20px}
 
+/* ---------- tool grid: show 6, expand for the rest ---------- */
+.card.more{display:none}
+.grid.expanded .card.more{display:block}
+.morewrap{display:flex;justify-content:center;margin-top:26px}
+.morebtn{-webkit-appearance:none;appearance:none;display:inline-flex;align-items:center;gap:10px;cursor:pointer;font-family:inherit;line-height:1.4;
+     font-size:14.5px;font-weight:600;color:var(--navy-700);background:#fff;
+     border:1.5px solid var(--line);border-radius:8px;padding:12px 22px;transition:.16s}
+.morebtn:hover{border-color:var(--steel);background:var(--ice-2)}
+.morebtn svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:2.2;
+     stroke-linecap:round;stroke-linejoin:round;transition:transform .18s}
+.morebtn[aria-expanded="true"] svg{transform:rotate(180deg)}
+
 /* ---------- timeline ---------- */
 .tl{position:relative;padding-left:30px;margin-top:12px}
 .tl::before{content:"";position:absolute;left:6px;top:8px;bottom:8px;width:2px;background:var(--line)}
@@ -798,6 +810,7 @@ ul.plain li::before{content:"";position:absolute;left:0;top:10px;width:8px;heigh
 
 footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
 </style>
+<noscript><style>.card.more{display:block}.morewrap{display:none}</style></noscript>
 </head>
 <body>
 
@@ -976,20 +989,27 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
       <div class="s">Scoped, built and iterated with Claude · Claude / LLM APIs · Bright Data API · Ahrefs API · version-controlled on GitHub, deployed on Render.com</div>
     </div>
 
-    <div class="grid">
+    <div class="grid" id="toolgrid">
       <div class="card"><span class="tag">GEO</span><h3>AI Overview Citation Scraper</h3><p>Extracts the sites and pages Google cites in AI Overviews for target keywords. The data layer behind our GEO citation strategy.</p></div>
       <div class="card"><span class="tag">Technical</span><h3>SEO Technical Audit</h3><p>106-parameter audit across crawlability, indexation, performance and search visibility, with prioritized fixes.</p></div>
       <div class="card"><span class="tag">Competitive</span><h3>Competitor Analyzer</h3><p>Benchmarks a site against three competitors on SEO, content, technical health and authority. Excel export.</p></div>
       <div class="card"><span class="tag">Forecasting</span><h3>Seasonality Dashboard</h3><p>Detects seasonal demand shifts from monthly volume data and forecasts against prior years; category PDF reports with Ahrefs benchmarking.</p></div>
       <div class="card"><span class="tag">Structured data</span><h3>Schema Audit</h3><p>Validates JSON-LD structured data at scale, flagging errors, warnings and rich-result opportunities.</p></div>
       <div class="card"><span class="tag">On-page</span><h3>SEO Page Level Audit</h3><p>Scores pages against on-page ranking factors, surfacing content gaps and UX issues. PDF output.</p></div>
-      <div class="card"><span class="tag">Research</span><h3>Keyword Classifier</h3><p>Auto-segments large keyword sets by search intent, funnel stage and business value.</p></div>
-      <div class="card"><span class="tag">Off-page</span><h3>Backlink Shortlister</h3><p>Qualifies link opportunities on authority, relevance, traffic potential and outreach viability.</p></div>
-      <div class="card"><span class="tag">Architecture</span><h3>Internal Linking</h3><p>Maps internal link structure to surface opportunities and push link equity to priority pages.</p></div>
-      <div class="card"><span class="tag">Content</span><h3>SEO Meta Tag Generator</h3><p>Batch-generates intent-aligned titles, meta descriptions and H1s from page content.</p></div>
-      <div class="card"><span class="tag">Content</span><h3>Blog Content Review</h3><p>Pre-publish scoring of blog content on SEO, readability, depth and GEO/LLM readiness.</p></div>
-      <div class="card"><span class="tag">Content</span><h3>Content Creator</h3><p>Generates structured long-form articles aligned to target keywords, topics and user intent.</p></div>
-      <div class="card"><span class="tag">Strategy</span><h3>SEO Potential Analysis</h3><p>Forecasts realistic organic growth from current performance, market demand and competition.</p></div>
+      <div class="card more"><span class="tag">Research</span><h3>Keyword Classifier</h3><p>Auto-segments large keyword sets by search intent, funnel stage and business value.</p></div>
+      <div class="card more"><span class="tag">Off-page</span><h3>Backlink Shortlister</h3><p>Qualifies link opportunities on authority, relevance, traffic potential and outreach viability.</p></div>
+      <div class="card more"><span class="tag">Architecture</span><h3>Internal Linking</h3><p>Maps internal link structure to surface opportunities and push link equity to priority pages.</p></div>
+      <div class="card more"><span class="tag">Content</span><h3>SEO Meta Tag Generator</h3><p>Batch-generates intent-aligned titles, meta descriptions and H1s from page content.</p></div>
+      <div class="card more"><span class="tag">Content</span><h3>Blog Content Review</h3><p>Pre-publish scoring of blog content on SEO, readability, depth and GEO/LLM readiness.</p></div>
+      <div class="card more"><span class="tag">Content</span><h3>Content Creator</h3><p>Generates structured long-form articles aligned to target keywords, topics and user intent.</p></div>
+      <div class="card more"><span class="tag">Strategy</span><h3>SEO Potential Analysis</h3><p>Forecasts realistic organic growth from current performance, market demand and competition.</p></div>
+    </div>
+
+    <div class="morewrap">
+      <button type="button" class="morebtn" id="toolsToggle" aria-expanded="false" aria-controls="toolgrid">
+        <span class="lbl">View all 13 tools</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="6 9 12 15 18 9"></polyline></svg>
+      </button>
     </div>
     </div>
 
@@ -1141,5 +1161,17 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
   <div class="wrap">Pratik Palkar · SEO &amp; GEO Project Manager · Mumbai, India</div>
 </footer>
 
+<script>
+(function(){
+  var b=document.getElementById('toolsToggle'), g=document.getElementById('toolgrid');
+  if(!b||!g) return;
+  b.addEventListener('click',function(){
+    var open=g.classList.toggle('expanded');
+    b.setAttribute('aria-expanded',open?'true':'false');
+    b.querySelector('.lbl').textContent=open?'Show fewer':'View all 13 tools';
+    if(!open) g.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+})();
+</script>
 </body>
 </html>
