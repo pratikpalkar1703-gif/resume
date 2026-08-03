@@ -535,6 +535,14 @@
         },
         {
           "@type": "Question",
+          "name": "What results has Pratik Palkar delivered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Across three accounts in different sectors and markets, non-brand organic clicks roughly tripled. An India D2C sports equipment brand grew non-brand clicks 3.1x over 10 months, from 8,098 to 25,358 a month, with non-brand CTR more than doubling from 0.42% to 0.94% and LLM-sourced sessions 3.7x, from 686 to 2,531. An India consumer energy brand grew non-brand clicks 3.7x over 14 months, from 4,600 to 17,100 a month, and AI-sourced traffic 12.6x, from 87 to 1,100 monthly sessions. A kids' edutainment site launched into the US market reached 4,065 monthly non-brand clicks in four months against entrenched category leaders, with total organic clicks 3.2x and brand traffic flat. Every account hit its agreed targets. Client names are withheld under NDA."
+          }
+        },
+        {
+          "@type": "Question",
           "name": "You built 13 tools. Do you write code?",
           "acceptedAnswer": {
             "@type": "Answer",
@@ -596,7 +604,7 @@
 :root{
   --navy-900:#10233a; --navy-800:#16283a; --navy-700:#1b3a5c; --navy-500:#2c5a86;
   --steel:#6f9ac4; --ice:#eef2f6; --ice-2:#f7f9fb;
-  --ink:#1c2229; --muted:#5a6472; --line:#dde4ec;
+  --ink:#1c2229; --muted:#5a6472; --line:#dde4ec; --amber:#c8841c;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -694,6 +702,37 @@ ul.plain li::before{content:"";position:absolute;left:0;top:10px;width:8px;heigh
      color:var(--navy-700);background:var(--ice);padding:3px 8px;border-radius:4px;margin-bottom:10px}
 .card p{margin:0;font-size:14px;color:var(--muted);line-height:1.55}
 
+/* ---------- selected results ---------- */
+.reshead{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin:34px 0 16px}
+.reshead .rl{font-size:12px;letter-spacing:2.2px;text-transform:uppercase;color:var(--steel);font-weight:700}
+.reshead .rn{font-size:12.5px;color:var(--muted)}
+.resgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+@media(max-width:900px){.resgrid{grid-template-columns:1fr}}
+.rcard{border:1px solid var(--line);border-top:4px solid var(--navy-700);border-radius:0 0 10px 10px;
+       padding:22px 22px 20px;background:#fff}
+.rcard .rt{font-size:10.5px;font-weight:700;letter-spacing:1.1px;text-transform:uppercase;color:#6b7683}
+.rcard .rb{font-size:44px;font-weight:800;color:var(--navy-700);letter-spacing:-1.8px;line-height:1;margin-top:10px}
+.rcard .rs{font-size:13.5px;color:var(--muted);line-height:1.5;margin-top:8px}
+.rm{margin-top:18px;padding-top:14px;border-top:1px solid var(--line)}
+.rm .lb{font-size:12.5px;color:#33404f;display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.rm .lb b{color:var(--navy-800);font-weight:700}
+.rm .lb .to{font-weight:700;color:var(--navy-700);white-space:nowrap}
+.bar{height:8px;border-radius:4px;background:#f0f4f8;margin-top:7px;overflow:hidden}
+.bar i{display:block;height:100%;border-radius:4px;background:#cbd8e4}
+.bar.hi i{background:linear-gradient(90deg,var(--navy-700),var(--steel))}
+.rm.ai{background:#fdf5e8;margin:18px -22px -20px;padding:16px 22px 18px;
+       border-left:4px solid var(--amber);border-top:1px solid #f0e0c4}
+.rm.ai .lb{color:#7a4d0a}
+.rm.ai .lb b,.rm.ai .lb .to{color:#a1620c}
+.rm.ai .chip{display:inline-block;background:var(--amber);color:#fff;font-size:9.5px;font-weight:800;
+       letter-spacing:1px;padding:2px 6px;border-radius:3px;margin-right:8px;vertical-align:1px}
+.bar.ai{background:#f6ebd6}
+.bar.ai i{background:#ecd4a6}
+.bar.ai.hi i{background:linear-gradient(90deg,#b8760f,#e0aa54)}
+.res-note{margin-top:18px;background:var(--ice);border-left:4px solid var(--navy-700);
+          border-radius:0 8px 8px 0;padding:16px 22px;font-size:14px;color:#33404f;line-height:1.6}
+.res-note b{color:var(--navy-800)}
+
 /* ---------- inline AI suite ---------- */
 .suiteinline{margin:12px 0 46px;padding:30px 0 34px;
      border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
@@ -767,6 +806,7 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
     <a href="#top" class="mark">Pratik Palkar</a>
     <ul>
       <li><a href="#work">What I do</a></li>
+      <li><a href="#results">Results</a></li>
       <li><a href="#suite">AI Suite</a></li>
       <li><a href="#experience">Experience</a></li>
       <li><a href="#toolkit">Toolkit</a></li>
@@ -803,7 +843,7 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
 <div class="statband">
   <div class="wrap">
     <div class="cell"><div class="n">7+ yrs</div><div class="d">SEO, GEO &amp; digital growth</div></div>
-    <div class="cell"><div class="n">5+ clients</div><div class="d">Plus an SEO delivery team</div></div>
+    <div class="cell"><div class="n">~3x</div><div class="d">Non-brand organic clicks, 3 accounts</div></div>
     <div class="cell"><div class="n">13 tools</div><div class="d">Built &amp; shipped to production</div></div>
     <div class="cell"><div class="n">D2C · Auto · SaaS · BFSI</div><div class="d">E-commerce, automotive, B2B and finance</div></div>
   </div>
@@ -850,6 +890,80 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
           <li>Ran CRO audits on high-intent organic landing pages and specced prioritized changes for client dev teams to implement.</li>
         </ul>
       </div>
+    </div>
+
+    <div id="results">
+      <div class="reshead">
+        <div class="rl">Selected results</div>
+        <div class="rn">Client names withheld under NDA · figures from Google Search Console and GA4</div>
+      </div>
+
+      <div class="resgrid">
+        <div class="rcard">
+          <div class="rt">D2C sports equipment · India</div>
+          <div class="rb">3.1x</div>
+          <div class="rs">non-brand clicks over 10 months. Non-brand CTR more than doubled, so the gain came from better positions, not just more of them.</div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand clicks, 10 mths</span><span class="to">8,098 → 25,358</span></div>
+            <div class="bar"><i style="width:32%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand CTR</span><span class="to">0.42% → 0.94%</span></div>
+            <div class="bar"><i style="width:45%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm ai">
+            <div class="lb"><span><span class="chip">AI</span>LLM-sourced sessions, 8 mths</span><span class="to">686 → 2,531</span></div>
+            <div class="bar ai"><i style="width:27%"></i></div>
+            <div class="bar ai hi"><i style="width:100%"></i></div>
+          </div>
+        </div>
+
+        <div class="rcard">
+          <div class="rt">Consumer energy brand · India</div>
+          <div class="rb" style="color:var(--amber)">12.6x</div>
+          <div class="rs"><b style="color:var(--amber)">AI-sourced traffic</b> over 14 months, alongside 3.7x non-brand organic clicks. Most of that came in the final three months.</div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand clicks, 14 mths</span><span class="to">4,600 → 17,100</span></div>
+            <div class="bar"><i style="width:27%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm">
+            <div class="lb"><span>Same, last 3 mths</span><span class="to">7,087 → 17,100</span></div>
+            <div class="bar"><i style="width:41%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm ai">
+            <div class="lb"><span><span class="chip">AI</span>LLM-sourced traffic, 14 mths</span><span class="to">87 → 1,100</span></div>
+            <div class="bar ai"><i style="width:8%"></i></div>
+            <div class="bar ai hi"><i style="width:100%"></i></div>
+          </div>
+        </div>
+
+        <div class="rcard">
+          <div class="rt">New site · kids edutainment · US</div>
+          <div class="rb">3.2x</div>
+          <div class="rs">total organic clicks in 4 months on a site launched into the US market, against entrenched category leaders, with brand traffic flat.</div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand clicks, 4 mths</span><span class="to">new site → 4,065</span></div>
+            <div class="bar"><i style="width:2%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand impressions, 4 mths</span><span class="to">3.7k → 252k</span></div>
+            <div class="bar"><i style="width:2%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+          <div class="rm">
+            <div class="lb"><span>Non-brand share of clicks</span><span class="to">0 → 63%</span></div>
+            <div class="bar"><i style="width:2%"></i></div>
+            <div class="bar hi"><i style="width:100%"></i></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="res-note">Every account hit its agreed targets across the period. Three sectors, two markets, three different starting scales, and all three landed at roughly <b>3x non-brand organic clicks</b>. That pattern is the point: it is a method, not one lucky account. Rows marked <b style="color:var(--amber)">AI</b> are LLM-sourced traffic, up <b style="color:var(--amber)">3.7x and 12.6x</b> on the two accounts where it was tracked. Figures from Google Search Console and GA4.</div>
     </div>
 
     <div id="suite" class="suiteinline">
@@ -989,6 +1103,10 @@ footer{padding:26px 0;font-size:13px;color:var(--muted);text-align:center}
       <details>
         <summary>How do you measure GEO performance?</summary>
         <p>Against a fixed prompt set that mirrors how real buyers ask questions. I track brand mentions, citation frequency, and share of voice versus competitors across ChatGPT, Perplexity and AI Overviews, then trend it over time. The point is to make AI visibility a reported metric rather than an assumption, the same way rankings became a reported metric twenty years ago.</p>
+      </details>
+      <details>
+        <summary>What results have you actually delivered?</summary>
+        <p>Across three accounts in different sectors and markets, non-brand organic clicks roughly tripled. A D2C sports equipment brand grew non-brand clicks 3.1x over 10 months, with CTR more than doubling. A consumer energy brand grew non-brand clicks 3.7x over 14 months and AI-sourced traffic 12.6x. A kids' edutainment site launched into the US market reached 4,065 monthly non-brand clicks in four months against entrenched category leaders, with total organic clicks 3.2x and brand traffic flat. Every account hit its agreed targets. Client names are withheld under NDA, but I am happy to walk through the reporting in an interview.</p>
       </details>
       <details>
         <summary>You built 13 tools. Do you write code?</summary>
