@@ -1,11 +1,11 @@
 # Pratik Palkar
 
-> SEO & GEO Project Manager based in Mumbai, India, with 7+ years in organic growth. Leads generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across D2C/e-commerce, B2B SaaS and BFSI, with earlier agency experience across a large automotive client portfolio. Designed and shipped a 13-tool internal AI suite for SEO and GEO workflows.
+> Project Manager for SEO, GEO and AI product, based in Mumbai, India, with 7+ years in organic growth. Leads SEO and generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across BFSI (mutual funds, digital lending), D2C/e-commerce and B2B SaaS, with earlier agency experience across a large automotive client portfolio. Turns CRO findings into wireframes with Claude, and designed and shipped a 13-tool internal AI suite for SEO and GEO workflows. Open to digital product, growth and senior SEO/GEO roles, especially in BFSI and banking.
 
 ## Summary
 
 - **Name:** Pratik Palkar
-- **Role:** SEO & GEO Project Manager, Growisto (Jul 2024 – present)
+- **Role:** SEO & GEO Project Manager, Growisto (Jul 2024 – present); positioned as Project Manager, SEO, GEO & AI Product
 - **Location:** Mumbai, Maharashtra, India
 - **Experience:** 7+ years across SEO, GEO, ASO and digital growth
 - **Email:** pratikpalkar1703@gmail.com
@@ -13,17 +13,20 @@
 
 ## Specialisms
 
-Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages, ASO, automotive SEO.
+Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages (findings turned into wireframes and layout mockups with Claude), developer-ready technical specs without writing production code, ASO, automotive SEO. Sector experience: BFSI (mutual funds, digital lending), D2C and e-commerce, B2B SaaS, automotive.
 
 ## Results
 
 Client names withheld under NDA. Figures from Google Search Console and GA4.
 
+- **Mutual fund (BFSI), India:** organic traffic up 2x in just 3 months.
 - **D2C sports equipment brand, India:** non-brand organic clicks up 3.1x over 10 months, 8,098 to 25,358 per month, on a 39% impression rise, so non-brand CTR more than doubled from 0.42% to 0.94%; LLM-sourced sessions up 3.7x over 8 months, 686 to 2,531 per month.
 - **Consumer energy brand, India:** non-brand organic clicks up 3.7x over 14 months, 4,600 to 17,100 per month, with 7,087 to 17,100 in the final three months; AI-sourced traffic up 12.6x, 87 to 1,100 monthly sessions.
 - **Kids edutainment site, US:** a new site launched into the US market reached 4,065 monthly non-brand clicks and 251,623 non-brand impressions in four months, against entrenched category leaders; total organic clicks up 3.2x from 1,979 to 6,426 with brand traffic flat, so non-brand went from nothing to 63% of all organic clicks.
 
-Across all three accounts, in different sectors and markets, non-brand organic clicks roughly tripled. Every account hit its agreed targets across the period.
+Across the D2C, energy and edutainment accounts, in different sectors and markets, non-brand organic clicks roughly tripled. Every one of those three accounts hit its agreed targets across the period.
+
+**Beyond traffic (lending client, India, at Ethinos Digital):** the client was getting many loan applications but almost all were being rejected. The cause was the previous agency's content, which targeted low-CIBIL-score loan queries and drew applicants who could never qualify. Removing that content solved the problem and the client was happy with the outcome.
 
 ## Built
 
