@@ -1,28 +1,36 @@
 # Pratik Palkar
 
-> Project Manager for SEO, GEO and AI product, based in Mumbai, India, with 7+ years in organic growth. Leads SEO and generative engine optimization (GEO/AEO) delivery for 5+ clients and an SEO team at Growisto across BFSI (mutual funds, digital lending), D2C/e-commerce and B2B SaaS, with earlier agency experience across a large automotive client portfolio. Turns CRO findings into wireframes with Claude, and designed and shipped a 13-tool internal AI suite for SEO and GEO workflows. Open to digital product, growth and senior SEO/GEO roles, especially in BFSI and banking.
+> SEO and GEO project manager and organic growth leader based in Mumbai, India, with 7+ years in organic growth. Leads a 10-person SEO team (3 direct reports, 7 coordinated) across 6 client projects at Growisto in BFSI (mutual funds, digital lending), D2C/e-commerce and B2B SaaS, with earlier agency experience across a large automotive client portfolio. Built the agency's GEO/AEO practice, turns CRO findings into wireframes with Claude, and designed and shipped a 13-tool internal AI suite for SEO and GEO workflows. Open to Senior SEO Manager and Organic Growth Manager roles (in-house first, agency-side also fine) and to digital product and growth roles, especially in BFSI and banking.
 
 ## Summary
 
 - **Name:** Pratik Palkar
-- **Role:** SEO & GEO Project Manager, Growisto (Jul 2024 – present); positioned as Project Manager, SEO, GEO & AI Product
+- **Role:** SEO & GEO Project Manager, Growisto (Jul 2024 – present)
 - **Location:** Mumbai, Maharashtra, India
 - **Experience:** 7+ years across SEO, GEO, ASO and digital growth
 - **Email:** pratikpalkar1703@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/pratik-palkar/
 
+## Leadership
+
+- Leads a 10-person SEO team across 6 client projects: 3 direct reports and 7 team members coordinated through delegated workstreams.
+- Mentors the direct reports; two were promoted from Junior Analyst to Assistant Project Manager.
+- Works across dev, content and design teams; presents roadmaps, forecasts and quarterly business reviews to VPs and founders, and reports to marketing and product leads weekly.
+- Recognition at Growisto: Star Performer award four times and Knowledge Leader award twice within two years.
+
 ## Specialisms
 
-Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages (findings turned into wireframes and layout mockups with Claude), developer-ready technical specs without writing production code, ASO, automotive SEO. Sector experience: BFSI (mutual funds, digital lending), D2C and e-commerce, B2B SaaS, automotive.
+Technical SEO, generative engine optimization (GEO), answer engine optimization (AEO), schema and entity optimization, AI Overview and LLM citation tracking, llms.txt and AI-crawler access configuration, content architecture for LLM retrieval, internal linking, link building and citation outreach, CRO for organic landing pages (findings turned into wireframes and layout mockups with Claude), developer-ready technical specs without writing production code, ASO, automotive SEO, SEO team leadership and mentoring. Sector experience: BFSI (mutual funds, digital lending), D2C and e-commerce, B2B SaaS, automotive.
 
 ## Results
 
 Client names withheld under NDA. Figures from Google Search Console and GA4.
 
 - **Mutual fund (BFSI), India:** organic traffic up 2x in just 3 months.
-- **D2C sports equipment brand, India:** non-brand organic clicks up 3.1x over 10 months, 8,098 to 25,358 per month, on a 39% impression rise, so non-brand CTR more than doubled from 0.42% to 0.94%; LLM-sourced sessions up 3.7x over 8 months, 686 to 2,531 per month.
-- **Consumer energy brand, India:** non-brand organic clicks up 3.7x over 14 months, 4,600 to 17,100 per month, with 7,087 to 17,100 in the final three months; AI-sourced traffic up 12.6x, 87 to 1,100 monthly sessions.
-- **Kids edutainment site, US:** a new site launched into the US market reached 4,065 monthly non-brand clicks and 251,623 non-brand impressions in four months, against entrenched category leaders; total organic clicks up 3.2x from 1,979 to 6,426 with brand traffic flat, so non-brand went from nothing to 63% of all organic clicks.
+- **D2C sports equipment brand, India:** non-brand organic clicks up 3.1x over 10 months, with non-brand CTR more than doubling; LLM-sourced sessions up 3.7x over 8 months.
+- **Consumer energy brand, India:** non-brand organic clicks up 3.7x over 14 months; AI-sourced traffic up 12.6x.
+- **Kids edutainment site, US:** a new site launched into the US market; total organic clicks up 3.2x in four months against entrenched category leaders, with brand traffic flat, so non-brand grew to about 63% of all organic clicks.
+- **Mutual fund client at Mirum India (earlier role):** authority score raised from 58 to 64 and organic traffic up 25% year on year.
 
 Across the D2C, energy and edutainment accounts, in different sectors and markets, non-brand organic clicks roughly tripled. Every one of those three accounts hit its agreed targets across the period.
 
@@ -31,6 +39,8 @@ Across the D2C, energy and edutainment accounts, in different sectors and market
 ## Built
 
 The Growisto AI Suite: 13 internal SEO/GEO tools (5 live web apps, 8 plugins), scoped and built with Claude, using the Claude/OpenAI APIs, Bright Data API and Ahrefs API, version-controlled on GitHub and deployed on Render.com. Tools include an AI Overview Citation Scraper, a 106-parameter SEO Technical Audit, Competitor Analyzer, Seasonality Dashboard, Schema Audit, SEO Page Level Audit, Keyword Classifier, Backlink Shortlister, Internal Linking analyser, SEO Meta Tag Generator, Blog Content Review, Content Creator and SEO Potential Analysis.
+
+The AI Overview Citation Scraper is built on a third-party scraping API in place of unreliable AI-citation data, and cut reporting time from 2.5 hours to 1 hour per person with high accuracy.
 
 ## Beyond work
 

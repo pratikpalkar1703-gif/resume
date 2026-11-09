@@ -2,7 +2,7 @@
 
 Static single-page site for GitHub Pages. No build step, no dependencies.
 
-**Live URL:** https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/
+**Live URL:** https://pratikpalkar1703-gif.github.io/resume/
 
 ## Files to upload
 
@@ -16,7 +16,7 @@ Static single-page site for GitHub Pages. No build step, no dependencies.
 
 ## Publishing
 
-1. Create the repo: **`seo-geo-project-manager`**, owner `pratikpalkar1703-gif`, visibility **Public**.
+1. Create the repo: **`resume`**, owner `pratikpalkar1703-gif`, visibility **Public**.
 2. On the empty repo page click **uploading an existing file** and drag in `index.html`, `Pratik_Palkar_Resume.pdf` and `llms.txt`. Commit.
 3. **Settings → Pages** → Source: **Deploy from a branch** → Branch `main`, folder `/ (root)` → **Save**.
 4. Wait 1–2 minutes, then open the live URL above. First deploy occasionally takes 5.
@@ -34,6 +34,6 @@ All URLs in `index.html` are already set to this address — nothing to edit bef
 1. Add a file named `CNAME` (no extension) to the repo root containing just `pratikpalkar.com`.
 2. At your registrar, create four A records for the apex pointing to `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`, and a CNAME for `www` pointing to `pratikpalkar1703-gif.github.io`.
 3. **Settings → Pages → Custom domain**, enter the domain, tick **Enforce HTTPS**.
-4. Find-and-replace every instance of `https://pratikpalkar1703-gif.github.io/seo-geo-project-manager/` in `index.html` and `llms.txt` with `https://pratikpalkar.com/`.
+4. Find-and-replace every instance of `https://pratikpalkar1703-gif.github.io/resume/` in `index.html` and `llms.txt` with `https://pratikpalkar.com/`.
 
 Step 4 matters — the canonical tag and the JSON-LD `@id` values must match the live URL, or you end up with two competing versions of the same entity.
